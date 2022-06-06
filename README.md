@@ -1,2 +1,2 @@
-#DEmo 2
+#Demo 2
 Some text
