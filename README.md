@@ -1,4 +1,3 @@
 # Demo 2
-Some text \n
-Some new text \n
+Some text
 ## Subheader
